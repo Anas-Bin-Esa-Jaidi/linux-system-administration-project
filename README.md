@@ -36,3 +36,9 @@ passwd devops_user
 chmod 755 file.sh
 systemctl start ssh
 top
+
+```
+
+📈 Outcome
+
+Successfully performed essential Linux administration tasks required for managing real-world servers.
