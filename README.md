@@ -7,6 +7,10 @@ This project demonstrates hands-on experience with user management, package inst
 
 ---
 
+## 🎯 Use Case
+
+Simulated a Linux server environment where multiple users required secure access, proper permissions, and service availability for system operations.
+
 ## ⚙️ Tasks Performed
 
 - User and group management  
@@ -41,4 +45,4 @@ top
 
 📈 Outcome
 
-Successfully performed essential Linux administration tasks required for managing real-world servers.
+Successfully performed essential Linux system administration tasks including user management, service configuration, and system monitoring in a simulated server environment.
