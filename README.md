@@ -4,8 +4,6 @@
 
 # 🐧 Linux System Administration Project
 
-# 🐧 Linux System Administration Project
-
 ## 📌 Overview
 
 Implemented core Linux system administration tasks to simulate real-world server management and configuration.
