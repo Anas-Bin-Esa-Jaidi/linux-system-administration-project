@@ -1,36 +1,38 @@
-# linux-system-administration-project
-Linux System Administration &amp; Automation Project
+# 🐧 Linux System Administration Project
 
-# 🚀 Linux System Administration & Automation Project
+## 📌 Overview
+Implemented core Linux system administration tasks to simulate real-world server management and configuration.
 
-## 👨‍💻 About This Project
-
-This project demonstrates my hands-on experience in **Linux system administration and DevOps fundamentals**. It includes real-world tasks such as user management, process monitoring, networking, and automation using shell scripting.
+This project demonstrates hands-on experience with user management, package installation, service configuration, and system monitoring.
 
 ---
 
-## 🎯 Objective
+## ⚙️ Tasks Performed
 
-To design and implement a Linux-based environment that showcases system administration, automation, and monitoring skills using shell scripting and real-time system management techniques.
-
----
-
-## 🔧 Skills Demonstrated
-
-- Linux System Administration  
-- Shell Scripting (Bash)  
-- User & Group Management  
-- Process Management  
-- Networking & Firewall Configuration  
-- Cron Jobs & Automation  
-- Log Rotation & Backup Management  
+- User and group management  
+- File permissions and ownership  
+- Package management using apt/yum  
+- Service management (SSH)  
+- Process monitoring  
+- Basic networking commands  
 
 ---
 
-## 📁 Project Structure
+## 🔄 Workflow
 
-scripts/ → contains automation scripts  
-outputs/ → contains command outputs  
-screenshots/ → project execution proof  
+- Created and managed users with appropriate permissions  
+- Installed and configured required packages  
+- Enabled and verified SSH service  
+- Monitored system processes and resource usage  
+- Applied file permissions for secure access  
 
-Added professional README
+---
+
+## 🧪 Sample Commands
+
+```bash
+useradd devops_user
+passwd devops_user
+chmod 755 file.sh
+systemctl start ssh
+top
